@@ -5,9 +5,6 @@ This is a verification package for the manuscript **“Knots and Coxeter Groups.
 1. check that a word in `A, B, C, D` traces a **closed, non-self-intersecting polygonal curve** in the affine `B~3` tessellation; and
 2. reproduce the **enumeration, pruning, and elementary simplification** stage of the exhaustive search used for Theorem 3, leaving the final cases for visual inspection.
 
-The package does **not** compute knot invariants and does **not** try to identify a curve as `3_1`, `9_35`, `9_40`, `9_41`, or `9_47`. For Theorem 5 it checks only that the four printed words are valid polygonal knots in the sense used in the paper: closed and without self-intersection.
-
-There are no third-party runtime dependencies.
 
 ## Layout
 
