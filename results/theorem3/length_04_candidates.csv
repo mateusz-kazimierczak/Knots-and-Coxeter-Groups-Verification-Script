@@ -1,0 +1,6 @@
+word,valid_knot,initial_vertices,removed_vertices,final_vertices,result
+ABAC,True,12,9,3,simplified_to_triangle
+ABCB,True,12,9,3,simplified_to_triangle
+ACBC,True,12,9,3,simplified_to_triangle
+ADCD,True,12,9,3,simplified_to_triangle
+BDCD,True,12,9,3,simplified_to_triangle

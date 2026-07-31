@@ -1,0 +1,22 @@
+Candidates left after exhaustive pruning and empty-triangle simplification.
+These words are intentionally left for visual inspection.
+
+piece_length  final_vertices  word
+          14               6  ABCADCDCDCABDC
+          14               6  ABCADCDCDCBADC
+          14               7  ABCBCDABCDCDCD
+          14               6  ABCDABCDCDCBDC
+          14               6  ABCDABCDCDCDBC
+          14               6  ABCDACDCBDCBCD
+          14               6  ABCDACDCDBCBCD
+          14               6  ABCDACDCDCABDC
+          14               6  ABCDACDCDCBADC
+          14               6  ABCDBACDCDCBDC
+          14               6  ABCDBACDCDCDBC
+          14               7  ABDCACABDCDCDC
+          14               6  ABDCACADCDCBDC
+          14               6  ABDCACDACDCBDC
+          14               6  ACACBDACDBCDCD
+          14               6  ACBCBDCDCADCBD
+          14               6  ACBCDBCDCADCBD
+          14               6  ACBDACDBCDCADC

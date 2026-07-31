@@ -1,0 +1,212 @@
+{
+  "coordinate_scale": 4,
+  "lengths": [
+    {
+      "piece_length": 1,
+      "raw_candidates": 0,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 0,
+      "unique_candidates": 0,
+      "valid_unique_candidates": 0
+    },
+    {
+      "piece_length": 2,
+      "raw_candidates": 4,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 2,
+      "unique_candidates": 2,
+      "valid_unique_candidates": 2
+    },
+    {
+      "piece_length": 3,
+      "raw_candidates": 0,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 0,
+      "unique_candidates": 0,
+      "valid_unique_candidates": 0
+    },
+    {
+      "piece_length": 4,
+      "raw_candidates": 20,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 5,
+      "unique_candidates": 5,
+      "valid_unique_candidates": 5
+    },
+    {
+      "piece_length": 5,
+      "raw_candidates": 0,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 0,
+      "unique_candidates": 0,
+      "valid_unique_candidates": 0
+    },
+    {
+      "piece_length": 6,
+      "raw_candidates": 156,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 20,
+      "unique_candidates": 20,
+      "valid_unique_candidates": 20
+    },
+    {
+      "piece_length": 7,
+      "raw_candidates": 0,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 0,
+      "unique_candidates": 0,
+      "valid_unique_candidates": 0
+    },
+    {
+      "piece_length": 8,
+      "raw_candidates": 536,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 43,
+      "unique_candidates": 43,
+      "valid_unique_candidates": 43
+    },
+    {
+      "piece_length": 9,
+      "raw_candidates": 0,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 0,
+      "unique_candidates": 0,
+      "valid_unique_candidates": 0
+    },
+    {
+      "piece_length": 10,
+      "raw_candidates": 3340,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 198,
+      "unique_candidates": 198,
+      "valid_unique_candidates": 198
+    },
+    {
+      "piece_length": 11,
+      "raw_candidates": 0,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 0,
+      "unique_candidates": 0,
+      "valid_unique_candidates": 0
+    },
+    {
+      "piece_length": 12,
+      "raw_candidates": 19860,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 895,
+      "unique_candidates": 895,
+      "valid_unique_candidates": 895
+    },
+    {
+      "piece_length": 13,
+      "raw_candidates": 0,
+      "remaining_for_visual_inspection": 0,
+      "simplified_to_triangle": 0,
+      "unique_candidates": 0,
+      "valid_unique_candidates": 0
+    },
+    {
+      "piece_length": 14,
+      "raw_candidates": 156576,
+      "remaining_for_visual_inspection": 18,
+      "simplified_to_triangle": 5762,
+      "unique_candidates": 5780,
+      "valid_unique_candidates": 5780
+    }
+  ],
+  "max_piece_length": 14,
+  "remaining_for_visual_inspection": [
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABCADCDCDCABDC"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABCADCDCDCBADC"
+    },
+    {
+      "final_vertex_count": 7,
+      "piece_length": 14,
+      "word": "ABCBCDABCDCDCD"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABCDABCDCDCBDC"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABCDABCDCDCDBC"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABCDACDCBDCBCD"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABCDACDCDBCBCD"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABCDACDCDCABDC"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABCDACDCDCBADC"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABCDBACDCDCBDC"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABCDBACDCDCDBC"
+    },
+    {
+      "final_vertex_count": 7,
+      "piece_length": 14,
+      "word": "ABDCACABDCDCDC"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABDCACADCDCBDC"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ABDCACDACDCBDC"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ACACBDACDBCDCD"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ACBCBDCDCADCBD"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ACBCDBCDCADCBD"
+    },
+    {
+      "final_vertex_count": 6,
+      "piece_length": 14,
+      "word": "ACBDACDBCDCADC"
+    }
+  ],
+  "scope": "Theorem 3 exhaustive pruning and empty-triangle simplification only; remaining cases require visual inspection.",
+  "workers": 8
+}
