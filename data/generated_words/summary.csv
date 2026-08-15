@@ -1,0 +1,13 @@
+origin_program,piece_length,full_length,candidate_count
+breadth_first_search,2,6,4
+breadth_first_search,4,12,20
+breadth_first_search,6,18,156
+breadth_first_search,8,24,536
+randomized_depth_first_search,8,24,1
+breadth_first_search,10,30,3340
+breadth_first_search,12,36,14799
+randomized_depth_first_search,12,36,1
+randomized_depth_first_search,14,42,3
+randomized_depth_first_search,16,48,11
+randomized_depth_first_search,18,54,121
+randomized_depth_first_search,20,60,1082

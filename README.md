@@ -12,12 +12,14 @@ This is a verification package for the manuscript **“Knots and Coxeter Groups.
 src/coxeter_knot_checker/
     core.py          exact word, closure, and embeddedness checks
     theorem3.py      exhaustive search and simplification extension
+    tightening.py    experimental word generation and tightening routines
     paper_words.py   words copied from Theorems 3 and 5
     __main__.py      command-line interface
 
 verify_paper.py      one-command check of the explicit manuscript words
 search_theorem3.py   one-command Theorem 3 search
 results/             generated reports from the verified run
+data/generated_words preserved BFS/DFS candidate lists and provenance CSV
 ```
 
 The mathematical code is therefore concentrated in one core module and one search extension.
