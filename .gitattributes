@@ -1,0 +1,2 @@
+# Preserve the original generator exports byte-for-byte as archival inputs.
+data/generated_words/raw/*.txt -text -diff
