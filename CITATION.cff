@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite the version you used using the metadata below."
+type: software
+title: "Coxeter Knot Verification Scripts"
+abstract: >-
+  A Python verification package for the manuscript "Knots and Coxeter
+  Groups." It provides utilities that confirm different properties of knots
+  and aid the exhaustive search presented in the manuscript.
+authors:
+  - family-names: "Burke"
+    given-names: "Dylan"
+    email: "dylan.burke@mail.utoronto.ca"
+  - family-names: "Cuff-Chartrand"
+    given-names: "Geoffrey"
+    email: "geoffrey.cuffchartrand@mail.utoronto.ca"
+  - family-names: "Espinosa"
+    given-names: "Malors"
+    email: "srolam.espinosalara@mail.utoronto.ca"
+  - family-names: "Kazimierczak"
+    given-names: "Mateusz"
+    email: "mateusz.kazimierczak@mail.utoronto.ca"
+  - family-names: "Mobedi"
+    given-names: "Amin"
+    email: "amin.mobedi@berkeley.edu"
+version: "1.0.0"
+date-released: 2026-08-19
+license: MIT
+repository-code: "https://github.com/mateusz-kazimierczak/Knots-and-Coxeter-Groups-Verification-Script"
+keywords:
+  - "Coxeter groups"
+  - "knot theory"
+  - "computational verification"

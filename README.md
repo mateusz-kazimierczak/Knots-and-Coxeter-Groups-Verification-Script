@@ -63,7 +63,7 @@ The segment tests use exact rational arithmetic. No floating-point tolerance is 
 Install the supplied wheel:
 
 ```bash
-python -m pip install coxeter_knot_checker-0.1.0-py3-none-any.whl
+python -m pip install coxeter_knot_checker-1.0.0-py3-none-any.whl
 coxeter-knot-checker verify --output results
 ```
 
