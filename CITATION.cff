@@ -24,6 +24,7 @@ authors:
     email: "amin.mobedi@berkeley.edu"
 version: "1.0.0"
 date-released: 2026-08-19
+doi: 10.5281/zenodo.22018642
 license: MIT
 repository-code: "https://github.com/mateusz-kazimierczak/Knots-and-Coxeter-Groups-Verification-Script"
 keywords:
